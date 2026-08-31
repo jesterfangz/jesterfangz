@@ -68,11 +68,12 @@
   <br>
   
   <a href="https://github.com/shadowrecluse"> <img src=previous.webp width="350"><img src=next.webp width="300"> </a>
-  <br>
 
-  
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   <img src=nyan.webp width="300">
+  <img src=space.png width="750">
+
+  
 
 
 <br><br><br><br><br><br><br><br><br><br>
