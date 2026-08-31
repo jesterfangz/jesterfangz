@@ -1,4 +1,7 @@
 <div align = center font-size="20">
+
+  <h1>this page has some <b>flashing images</b>!</h1>
+  <br>
   
   <p><i>i promise you that here,</p>
   <p>no one will hear you scream!</p>
@@ -13,17 +16,23 @@
   ![now-playing](now-playing.svg)
 
   
-  <img src=bitch.webp width="250">
+  <img src=sj.webp width="750">
   
   <br>
   
-  <img src=smilk.webp width="250">
-  <img src=trickster.webp width="250">
+  <img src=smilk.webp width="375">
+  <img src=smilk.webp width="375">
   <br>
-  <img src=sj.webp width="250">
-  <img src=pvsm.webp width="250">
+  <img src=trickster.webp width="375">
+  <img src=pvsm.webp width="375">
   <br>
-
+  
+  <img src=stamp1.png width="250">
+  <img src=stamp2.webp width="250">
+  <img src=stamp3.webp width="250">
+  
+  <br>
+  <img src=checkerboard.webp width="750">
   <br>
   
   <img src=insane.png width="250">
@@ -34,6 +43,8 @@
   <img src=bat.webp width="250">
   <img src=dj.webp width="250">
 
+  <br>
+  <img src=bitch.webp width="250">
   <br>
 
   <img src=toxicyaoi.gif width="275">
