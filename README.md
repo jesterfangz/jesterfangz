@@ -40,40 +40,39 @@
   <img src=stamp3.webp width="250">
   
   <br>
+  <br>
   
   <img src=checkerboard.webp width="750">
   
   <br>
+  <br>
   
-  <img src=insane.png width="250">
-  <img src=barbed.jpg width="250">
+  <img src=insane.png width="375">
+  <img src=barbed.jpg width="375">
   
   <br>
 
   <img src=bat.webp width="250">
   <img src=dj.webp width="250">
-
-  <br>
-  
   <img src=bitch.webp width="250">
   
   <br>
 
-  <img src=toxicyaoi.gif width="275">
-  <img src=toxicyuri.gif width="275">
+  <img src=toxicyaoi.gif width="375">
+  <img src=toxicyuri.gif width="375">
   
   <br>
   
-  <img src=biohazard.gif width="250">
-  <img src=livingdeadgirl.webp width="420">
+  <img src=biohazard.gif width="275">
+  <img src=livingdeadgirl.webp width="475">
 
   <br>
 
-  <img src=emoticons.webp width="500">
+  <img src=emoticons.webp width="750">
   
   <br>
   
-  <a href="https://github.com/shadowrecluse"> <img src=previous.webp width="350"><img src=next.webp width="300"> </a>
+  <a href="https://github.com/shadowrecluse"><img src=previous.webp width="350"></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/shadowrecluse"><img src=next.webp width="300"> </a>
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   <img src=nyan.webp width="300">
