@@ -24,6 +24,12 @@
   
   <br>
   
+  <img src=stamp4.webp width="250">
+  <img src=stamp5.png width="250">
+  <img src=stamp6.png width="250">
+  
+  <br>
+  
   <img src=trickster.webp width="375">
   <img src=pvsm.webp width="375">
   
