@@ -12,6 +12,16 @@
   
   ![now-playing](now-playing.svg)
 
+  
+  <img src=bitch.webp width="250">
+  
+  <br>
+
+  <img src=insane.png width="250">
+  <img src=barbed.jpg width="250">
+  
+  <br>
+
   <img src=bat.webp width="250">
   <img src=dj.webp width="250">
 
