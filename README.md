@@ -16,8 +16,8 @@
   <img src=tumblr_788ac6266c78df1e5a7751bc7084bc2b_4a07a79c_250.webp width="300">
   <img src=tumblr_19046a6f123eaf38749df558c58bb725_dc96b275_540.webp width="750">
   <br>
-  <img src=tumblr_1bc2e6fa95c6df793b7b16f793c2b4f1_23ca6ad5_250.webp width="350">
-  <img src=tumblr_87058034351f22366f61e69c6d3bc01a_c21d6811_250.webp width="300">
+  <img src=tumblr_1bc2e6fa95c6df793b7b16f793c2b4f1_23ca6ad5_250.webp href=https://github.com/shadowrecluse width="350">
+  <img src=tumblr_87058034351f22366f61e69c6d3bc01a_c21d6811_250.webp href=https://github.com/shadowrecluse width="300">
 
   
   
