@@ -16,7 +16,7 @@
   ![now-playing](now-playing.svg)
   
   <img src=smilk.webp width="375">
-  <img src=smilk.webp width="375">
+  <img src=tr.webp width="375">
   
   <br>
   
