@@ -63,8 +63,8 @@
   
   <br>
   
-  <img src=biohazard.gif width="460">
-  <img src=vamp.webp width="290">
+  <img src=biohazard.gif width="275">
+  <img src=livingdeadgirl.webp width="475">
 
   <br>
 
