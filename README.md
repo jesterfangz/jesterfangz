@@ -22,7 +22,7 @@
   <img src=spadepadding2.png width="50">
   <img src=right.png width="350">
   
-  <img src=outro.png width="750">
+  <img src=outro2.png width="750">
   
   
   
