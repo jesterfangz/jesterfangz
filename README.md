@@ -2,6 +2,46 @@
 
   <h1>this page has some <b>flashing images</b>!</h1>
   <br>
+
+
+
+  <img src=divider_top.png width="750"><br>
+
+  <img src=full.png width="750"><br>
+  
+  <img src=sticks.png width="500"><br>
+  <img src=piano.png width="750"><br>
+  <img src=divider_top.png width="700"><br>
+  <img src=souljam.png width="125"><br>
+  <img src=floating.png width="500"><br>
+  <img src=divider_bottom.png width="750"><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   
   <p><i>i promise you that here,</p>
   <p>no one will hear you scream!</p>
