@@ -24,10 +24,11 @@
   
   <img src=outro2.png width="750">
   
-  
+  <p><b>⋆♤˚⟡˖ ࣪🃁  🂺 ˖⟡˚ ♤ ⋆</b></p>
   
   ![now-playing](now-playing.svg)
   
+  <p><b>⋆✴︎˚｡⋆</b></p>
   
   <img src=smilk.webp width="375">
   <img src=tr.webp width="375">
@@ -88,4 +89,5 @@
   
   <a href="https://github.com/shadowrecluse"><img src=previous.webp width="350"></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/shadowrecluse"><img src=next.webp width="300"> </a>
 
+  <p><b>⊹ ࣪ ˖꒰ঌ ໒꒱.⋆˚࿔</b></p>
 </div>
