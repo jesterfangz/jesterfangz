@@ -9,46 +9,26 @@
 
   <img src=full.png width="750"><br>
   
-  <p><i>i promise you that here, no one will hear you scream! no one will scream in doubt!</p>
+  <p><i>i promise you that here, no one will hear you scream! no one will scream in doubt!</i></p>
   <img src=sticks.png width="500"><br>
-  <p>i doubt you'll come to mind, when your mind is giving out! and outside we shall dance!</p>
+  <p><i>i doubt you'll come to mind, when your mind is giving out! and outside we shall dance!</i></p>
   <img src=divider.png width="750"><br>
   <img src=souljam.png width="125"><br>
   <p><i><b><h3>the dance will free your hearts!</h3></b></i></p>
   <img src=floating.png width="500"><br>
   <img src=divider_bottom.png width="750"><br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  <img src=tint.png width="750">
+  <img src=outro.png width="750">
   
   
-  <img src=websitepic1.png width="800">
-  <img src=websitepic2.png width="800">
   
   ![now-playing](now-playing.svg)
+  
+  <img src=left.png width="350">
+  <img src=spadepadding2.png width="50">
+  <img src=right.png width="350">
+  
   
   <img src=smilk.webp width="375">
   <img src=tr.webp width="375">
