@@ -6,13 +6,15 @@
 
 
   <img src=divider_top.png width="750"><br>
-
+  <p><b>˚★.𖥔 ݁ ⊹ ࣪</b></p>
   <img src=full2.png width="750"><br>
   
   <p><i>i promise you that here, no one will hear you scream! no one will scream in doubt!</i></p>
   <img src=sticks.png width="500"><br>
   <p><i>i doubt you'll come to mind, when your mind is giving out! and outside we shall dance!</i></p>
   <img src=divider.png width="750"><br>
+  
+  <p><b>⋆.⟡ ˚★⋆｡˚</b></p>
   <img src=souljam.png width="125"><br>
   <p><i><b><h3>the dance will free your hearts!</h3></b></i></p>
   <img src=floating.png width="500"><br>
