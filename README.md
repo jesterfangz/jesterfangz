@@ -18,17 +18,17 @@
   <img src=floating.png width="500"><br>
   <img src=divider_bottom.png width="750"><br>
 
-  <img src=tint.png width="750">
+  <img src=left.png width="350">
+  <img src=spadepadding2.png width="50">
+  <img src=right.png width="350">
+  
   <img src=outro.png width="750">
   
   
   
   ![now-playing](now-playing.svg)
   
-  <img src=left.png width="350">
-  <img src=spadepadding2.png width="50">
-  <img src=right.png width="350">
-  
+  <img src=tint.png width="750">
   
   <img src=smilk.webp width="375">
   <img src=tr.webp width="375">
