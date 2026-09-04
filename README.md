@@ -13,6 +13,7 @@
   <img src=piano.png width="750"><br>
   <img src=divider_top.png width="700"><br>
   <img src=souljam.png width="125"><br>
+  <p><i><b><h3>the dance will free your hearts!</h3></b></i></p>
   <img src=floating.png width="500"><br>
   <img src=divider_bottom.png width="750"><br>
 
@@ -51,7 +52,6 @@
   <p>when your mind is giving out!</p>
   <p>and outside we shall dance!</p>
   <img src=websitepic2.png width="800">
-  <p><b><h2>the dance will free your hearts!</h2></b></i></p>
   
   ![now-playing](now-playing.svg)
   
