@@ -7,7 +7,7 @@
 
   <img src=divider_top.png width="750"><br>
 
-  <img src=full.png width="750"><br>
+  <img src=full2.png width="750"><br>
   
   <p><i>i promise you that here, no one will hear you scream! no one will scream in doubt!</i></p>
   <img src=sticks.png width="500"><br>
