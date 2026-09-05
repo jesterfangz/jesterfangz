@@ -40,9 +40,12 @@
   <img src=sj.webp width="750">
   
   <br>
+  <img src=blinkie2.png width="375">
+  <img src=blinkie3.png width="375">
+  <br>
   
   <img src=stamp4.webp width="250">
-  <img src=stamp5.png width="250">
+  <img src=w9.png width="250">
   <img src=stamp6.png width="250">
   
   <br>
@@ -57,12 +60,18 @@
   <img src=stamp3.webp width="250">
   
   <br>
+  <img src=blinkie4.png width="750">
+  <br>
+  <img src=blinkie1.png width="375">
+  <img src=blinkie5.png width="375">
   <br>
   
   <img src=checkerboard.webp width="750">
   
   <br>
   <br>
+
+  <img src=IMG_0027.png width="750">
   
   <img src=insane.png width="375">
   <img src=barbed.jpg width="375">
