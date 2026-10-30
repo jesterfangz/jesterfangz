@@ -85,7 +85,6 @@
   <img src=eat.webp width="375">
   <img src=eattherude.webp width="375">
   <br>
-  <img src=sparkle.gif width="750">
   <img src=survived.gif width="750">
   <img src=s3didnt.gif width="750">
   <br>
