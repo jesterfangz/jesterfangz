@@ -66,6 +66,30 @@
   <img src=blinkie5.png width="375">
   <br>
   <br>
+
+
+  
+  <br>
+  <img src=div.png width="750">
+  <br>
+  <br>
+  <br>
+  <img src=hannibal.gif width="750">
+  
+  <img src=dearwill.gif width="375">
+  <img src=see.gif width="375">
+  <br>
+  <img src=know.webp width="375">
+  <img src=moth.gif width="375">
+  <br>
+  <img src=eat.webp width="375">
+  <img src=eattherude.webp width="375">
+  <br>
+  <img src=sparkle.gif width="750">
+  <img src=survived.gif width="750">
+  <img src=s3didnt.gif width="750">
+  <br>
+  <br>
   
   <img src=checkerboard.webp width="750">
   
